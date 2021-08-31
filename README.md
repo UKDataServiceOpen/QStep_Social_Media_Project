@@ -1,7 +1,8 @@
 # QStep 2021 Social media project
-Reproducibility details for the QStep 2021 Social Media Project. In this project we needed to collect data across multiple cities during "Veganuary 2019". We chose to cover Manchester, London and Preston.
+Reproducibility details for the [QStep 2021 Social Media Project](https://documents.manchester.ac.uk/display.aspx?DocID=54615). In this project we needed to collect data across multiple cities during "Veganuary 2019". We chose to cover Manchester, London and Preston.
 
 Researchers - [Sima Aykin](https://www.linkedin.com/in/simaykin/) and [Rumeysa Piskin](https://www.linkedin.com/in/may-piskin-432055209/)
+
 Supervisors - [Dr. Julia Kasmire](https://sites.google.com/view/drjkasmireresearch/home) and [Joseph Allen](https://joseph-allen.github.io/)
 
 ## Data
@@ -24,8 +25,8 @@ We decided to collect the following data:
 Beyond this we restrict our data by location, we remove all replies and retweets, we set a limit on start and end date.
 
 ## Data Acquisition
-This data was all collected with the Twitter API, at the academic tier.
-We made use of the Twarc package to collect our data.
+This data was all collected with the [Twitter API](https://developer.twitter.com/en), at the academic tier.
+We made use of the [Twarc](https://github.com/DocNow/twarc) package to collect our data.
 
 ### Collect tweets
 ```
@@ -47,10 +48,10 @@ twarc2 csv prestonGeoPointRadius.jsonl prestonGeoPointRadius.csv
 twarc2 csv prestonGeoPlace.jsonl prestonGeoPlace.csv
 ```
 
-These tweets then go through a tidying process, as seen in the TidyData notebook.
+These tweets then go through a tidying process, as seen in the [data tidying notebook](https://github.com/UKDataServiceOpen/QStep_Social_Media_Project/blob/main/dataTidying.ipynb).
 
 ### Statistical Analysis
 We used Google Collab to make our analysis reproducible. As such the analysis for each city are as follows:
-* London - 
-* Manchester -
-* Preston - 
+* London - [London Analysis](https://colab.research.google.com/drive/1Z-W4Sw9oj9I0hhF9IxdAIfRQngXRnfJ4)
+* Manchester - [London Analysis](https://colab.research.google.com/drive/1ry3JgbfVdLu2zDJ_z7JKfWubFlqXO0BE)
+* Preston - [London Analysis](https://colab.research.google.com/drive/103v4UQ3oaof3hmwChMjhNKGzSx-eWL4z)
