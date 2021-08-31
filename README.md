@@ -52,6 +52,6 @@ These tweets then go through a tidying process, as seen in the [data tidying not
 
 ### Statistical Analysis
 We used Google Collab to make our analysis reproducible. As such the analysis for each city are as follows:
-* London - [London Analysis](https://colab.research.google.com/drive/1Z-W4Sw9oj9I0hhF9IxdAIfRQngXRnfJ4)
-* Manchester - [London Analysis](https://colab.research.google.com/drive/1ry3JgbfVdLu2zDJ_z7JKfWubFlqXO0BE)
-* Preston - [London Analysis](https://colab.research.google.com/drive/103v4UQ3oaof3hmwChMjhNKGzSx-eWL4z)
+* [London Analysis](https://colab.research.google.com/drive/1Z-W4Sw9oj9I0hhF9IxdAIfRQngXRnfJ4)
+* [Manchester Analysis](https://colab.research.google.com/drive/1ry3JgbfVdLu2zDJ_z7JKfWubFlqXO0BE)
+* [Preston Analysis](https://colab.research.google.com/drive/103v4UQ3oaof3hmwChMjhNKGzSx-eWL4z)
