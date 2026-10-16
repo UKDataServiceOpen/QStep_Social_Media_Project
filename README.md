@@ -1,7 +1,7 @@
 ![UKDS Logo](./images/Logo.png)<br>
 <br>
-# Repository_template
-A template to help create standardised repos for UKDS projects 
+# Q-step project and supporting materials
+This repository is under construction. Work is being done to ensure that the data associated with project is shared correctly in compliance with the terms, conditions and best practice for data sharing. 
 
 ## Topics 
 
